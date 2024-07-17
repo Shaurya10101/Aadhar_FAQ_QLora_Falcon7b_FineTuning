@@ -1,0 +1,274 @@
+[
+    {
+        "question": "What is Aadhar?",
+        "answer": "Aadhar is a unique 12-digit identification number issued by the Indian government to every individual resident of India. The number is linked to the resident's biometric and demographic data."
+    },
+    {
+        "question": "How can I apply for Aadhar?",
+        "answer": "To apply for Aadhar, you need to visit an Aadhar enrollment center with proof of identity, proof of address, and proof of date of birth documents. At the center, your biometric data (fingerprints, iris scan) will be captured along with your demographic information."
+    },
+    {
+        "question": "What documents are required for Aadhar enrollment?",
+        "answer": "Documents required for Aadhar enrollment include proof of identity (e.g., PAN card, passport), proof of address (e.g., utility bill, bank statement), and proof of date of birth (e.g., birth certificate, school certificate)."
+    },
+    {
+        "question": "How can I update my Aadhar details?",
+        "answer": "You can update your Aadhar details by visiting an Aadhar enrollment center or online through the UIDAI website. For biometric updates, you need to visit the center. For demographic updates, you can either visit the center or update them online."
+    },
+    {
+        "question": "How can I check my Aadhar status?",
+        "answer": "You can check your Aadhar status online through the UIDAI website by entering your enrollment ID. Alternatively, you can check the status via the mAadhaar app or by visiting an Aadhar enrollment center."
+    },
+    {
+        "question": "Is Aadhar mandatory?",
+        "answer": "Aadhar is not mandatory for every individual, but it is required for availing various government benefits and services. It is also used for identity verification purposes."
+    },
+    {
+        "question": "How can I download my e-Aadhar?",
+        "answer": "You can download your e-Aadhar from the UIDAI website by entering your Aadhar number or enrollment ID, along with a one-time password (OTP) sent to your registered mobile number."
+    },
+    {
+        "question": "What should I do if I lose my Aadhar card?",
+        "answer": "If you lose your Aadhar card, you can download a digital copy (e-Aadhar) from the UIDAI website or request a reprint. You will need your Aadhar number or enrollment ID and a registered mobile number to receive the OTP."
+    },
+    {
+        "question": "Can I link my mobile number with Aadhar?",
+        "answer": "Yes, you can link your mobile number with Aadhar by visiting an Aadhar enrollment center. You need to carry your Aadhar card and the mobile phone for which the number is to be linked."
+    },
+    {
+        "question": "How can I verify my Aadhar number?",
+        "answer": "You can verify your Aadhar number online through the UIDAI website by entering your Aadhar number and the security code displayed on the page. You will receive an OTP on your registered mobile number to complete the verification."
+    },
+    {
+        "question": "What is the mAadhaar app?",
+        "answer": "The mAadhaar app is an official mobile application developed by UIDAI, which allows Aadhar holders to carry their demographic information and photograph in digital form. It also provides various Aadhar-related services."
+    },
+    {
+        "question": "How can I link my Aadhar with my bank account?",
+        "answer": "You can link your Aadhar with your bank account by visiting your bank's branch, using an ATM, through online banking, or via SMS. You will need your Aadhar number and bank account details."
+    },
+    {
+        "question": "What is the UIDAI?",
+        "answer": "The UIDAI (Unique Identification Authority of India) is a statutory authority established by the Government of India to issue unique identification numbers (Aadhar) to residents of India."
+    },
+    {
+        "question": "Is my Aadhar data secure?",
+        "answer": "Yes, the UIDAI has implemented various security measures to protect Aadhar data, including encryption, authentication, and monitoring. However, it is important for individuals to also ensure they do not share their Aadhar details publicly."
+    },
+    {
+        "question": "Can I use my Aadhar card as an identity proof?",
+        "answer": "Yes, your Aadhar card can be used as a proof of identity and address for various services, including opening a bank account, applying for a passport, and obtaining a SIM card."
+    },
+    {
+        "question": "What is Virtual ID (VID) in Aadhar?",
+        "answer": "The Virtual ID (VID) is a temporary, revocable 16-digit random number mapped with your Aadhar number. It can be used in place of your Aadhar number for authentication and KYC services."
+    },
+    {
+        "question": "How can I generate my Virtual ID (VID)?",
+        "answer": "You can generate your Virtual ID (VID) through the UIDAI website or the mAadhaar app by logging in with your Aadhar number and following the instructions to generate the VID."
+    },
+    {
+        "question": "What is the process to update my address in Aadhar?",
+        "answer": "To update your address in Aadhar, you can either visit an Aadhar enrollment center or update it online through the UIDAI website. You will need to provide valid address proof documents."
+    },
+    {
+        "question": "Can I update my mobile number online?",
+        "answer": "No, you cannot update your mobile number online. You need to visit an Aadhar enrollment center with your Aadhar card and the mobile phone for which the number is to be updated."
+    },
+    {
+        "question": "How can I check my Aadhar update status?",
+        "answer": "You can check your Aadhar update status online through the UIDAI website by entering your Update Request Number (URN)."
+    },
+    {
+        "question": "What is Aadhar Seeding?",
+        "answer": "Aadhar Seeding is the process of linking your Aadhar number with various government services and schemes, such as bank accounts, LPG connections, and ration cards."
+    },
+    {
+        "question": "How can I retrieve my lost Aadhar number?",
+        "answer": "You can retrieve your lost Aadhar number online through the UIDAI website by entering your name and registered mobile number or email ID. An OTP will be sent to your registered mobile number for verification."
+    },
+    {
+        "question": "Is it mandatory to link Aadhar with PAN card?",
+        "answer": "Yes, it is mandatory to link Aadhar with PAN card for filing income tax returns and for other financial transactions."
+    },
+    {
+        "question": "Can NRIs apply for Aadhar?",
+        "answer": "Yes, Non-Resident Indians (NRIs) who have resided in India for more than 182 days in the preceding 12 months can apply for Aadhar."
+    },
+    {
+        "question": "What is Aadhar Authentication?",
+        "answer": "Aadhar Authentication is the process of verifying the identity of an Aadhar holder using their Aadhar number and biometric or OTP."
+    },
+    {
+        "question": "How can I link my Aadhar with my LPG connection?",
+        "answer": "You can link your Aadhar with your LPG connection by providing your Aadhar number to your LPG distributor. You can also do it online through the distributor's website."
+    },
+    {
+        "question": "What is Aadhar Virtual ID (VID)?",
+        "answer": "Aadhar Virtual ID (VID) is a temporary, revocable 16-digit random number mapped with your Aadhar number. It can be used for authentication instead of your actual Aadhar number."
+    },
+    {
+        "question": "How can I lock or unlock my Aadhar biometrics?",
+        "answer": "You can lock or unlock your Aadhar biometrics through the UIDAI website or the mAadhaar app to prevent misuse of your biometric data."
+    },
+    {
+        "question": "Can I use Aadhar for e-KYC?",
+        "answer": "Yes, Aadhar can be used for electronic Know Your Customer (e-KYC) verification for various services, including opening bank accounts and obtaining SIM cards."
+    },
+    {
+        "question": "What should I do if my Aadhar card is not delivered?",
+        "answer": "If your Aadhar card is not delivered, you can download a digital copy (e-Aadhar) from the UIDAI website or contact the UIDAI helpdesk for assistance."
+    },
+    {
+        "question": "Can I update my name in Aadhar?",
+        "answer": "Yes, you can update your name in Aadhar by visiting an Aadhar enrollment center with valid proof of identity documents that reflect the name change."
+    },
+    {
+        "question": "How can I link my Aadhar with my EPF account?",
+        "answer": "You can link your Aadhar with your Employee Provident Fund (EPF) account through the EPFO portal by logging in with your UAN and updating your Aadhar details."
+    },
+    {
+        "question": "What is the Aadhar Enrollment ID?",
+        "answer": "The Aadhar Enrollment ID (EID) is a 28-digit number provided to residents at the time of Aadhar enrollment. It consists of 14-digit enrollment number and 14-digit date and time of enrollment."
+    },
+    {
+        "question": "How can I get my Aadhar PVC card?",
+        "answer": "You can order a PVC Aadhar card online through the UIDAI website by entering your Aadhar number and paying a nominal fee. The card will be delivered to your registered address."
+    },
+    {
+        "question": "Is there a fee for updating Aadhar details?",
+        "answer": "Yes, there is a nominal fee for updating Aadhar details, which can be paid at the Aadhar enrollment center."
+    },
+    {
+        "question": "What is Aadhar Offline e-KYC?",
+        "answer": "Aadhar Offline e-KYC is a secure, shareable document that residents can use for offline identity verification. It contains demographic details and a photograph."
+    },
+    {
+        "question": "How can I verify my email address in Aadhar?",
+        "answer": "You can verify your email address in Aadhar by visiting the UIDAI website and selecting the 'Verify Email/Mobile Number' option. An OTP will be sent to your email for verification."
+    },
+    {
+        "question": "How can I link my Aadhar with my Voter ID?",
+        "answer": "You can link your Aadhar with your Voter ID online through the NVSP portal or by submitting a Form 6B at your nearest electoral office."
+    },
+    {
+        "question": "What is mAadhaar app?",
+        "answer": "The mAadhaar app is an official mobile application by UIDAI that allows residents to carry their Aadhar information, including demographic details and photograph, on their smartphones."
+    },
+    {
+        "question": "How can I verify my mobile number in Aadhar?",
+        "answer": "You can verify your mobile number in Aadhar by visiting the UIDAI website and selecting the 'Verify Email/Mobile Number' option. An OTP will be sent to your mobile for verification."
+    },
+    {
+        "question": "What should I do if my Aadhar card has incorrect information?",
+        "answer": "If your Aadhar card has incorrect information, you can request an update by visiting an Aadhar enrollment center or updating it online through the UIDAI website."
+    },
+    {
+        "question": "Can I have multiple Aadhar numbers?",
+        "answer": "No, an individual can have only one Aadhar number. It is a unique identification number assigned to each resident."
+    },
+    {
+        "question": "How can I link my Aadhar with my insurance policy?",
+        "answer": "You can link your Aadhar with your insurance policy by providing your Aadhar number to your insurance provider, either online or by visiting their branch."
+    },
+    {
+        "question": "What is the Aadhar helpline number?",
+        "answer": "The Aadhar helpline number is 1947. You can call this toll-free number for any queries or assistance related to Aadhar."
+    },
+    {
+        "question": "How can I update my Aadhar if I move to a new address?",
+        "answer": "If you move to a new address, you can update your Aadhar by providing valid address proof documents at an Aadhar enrollment center or through the UIDAI website."
+    },
+    {
+        "question": "What is Aadhar Paperless Offline e-KYC?",
+        "answer": "Aadhar Paperless Offline e-KYC is a method of identity verification where the resident can download the e-KYC XML from the UIDAI website and share it with service providers for offline verification."
+    },
+    {
+        "question": "How can I generate my Aadhar Virtual ID (VID)?",
+        "answer": "You can generate your Aadhar Virtual ID (VID) through the UIDAI website or the mAadhaar app by logging in with your Aadhar number and following the instructions to generate the VID."
+    },
+    {
+        "question": "Can I change my date of birth in Aadhar?",
+        "answer": "Yes, you can change your date of birth in Aadhar by visiting an Aadhar enrollment center with valid proof of date of birth documents."
+    },
+    {
+        "question": "What is the process to get a duplicate Aadhar card?",
+        "answer": "You can get a duplicate Aadhar card by downloading the e-Aadhar from the UIDAI website or by requesting a reprint of your Aadhar card."
+    },
+    {
+        "question": "How can I link my Aadhar with my ration card?",
+        "answer": "You can link your Aadhar with your ration card by visiting your nearest ration shop or through the respective state government's PDS portal."
+    },
+    {
+        "question": "Can I update my photograph in Aadhar?",
+        "answer": "Yes, you can update your photograph in Aadhar by visiting an Aadhar enrollment center and providing your biometric data for authentication."
+    },
+    {
+        "question": "How can I check if my mobile number is linked to my Aadhar?",
+        "answer": "You can check if your mobile number is linked to your Aadhar by visiting the UIDAI website and selecting the 'Verify Email/Mobile Number' option."
+    },
+    {
+        "question": "What is Aadhar eSign?",
+        "answer": "Aadhar eSign is an online electronic signature service that allows Aadhar holders to digitally sign documents using their Aadhar number and OTP."
+    },
+    {
+        "question": "Can I update my email address in Aadhar online?",
+        "answer": "Yes, you can update your email address in Aadhar online through the UIDAI website by logging in with your Aadhar number and OTP."
+    },
+    {
+        "question": "How can I check my Aadhar card validity?",
+        "answer": "You can check the validity of your Aadhar card by verifying your Aadhar number online through the UIDAI website."
+    },
+    {
+        "question": "Can I use my Aadhar card for international travel?",
+        "answer": "No, your Aadhar card cannot be used for international travel. It is only valid within India for identity verification."
+    },
+    {
+        "question": "What is the process to enroll for Aadhar for a newborn?",
+        "answer": "To enroll a newborn for Aadhar, you need to visit an Aadhar enrollment center with the baby's birth certificate and the Aadhar card of one of the parents."
+    },
+    {
+        "question": "How can I download my e-Aadhar without a registered mobile number?",
+        "answer": "You cannot download your e-Aadhar without a registered mobile number. You need to update your mobile number first at an Aadhar enrollment center."
+    },
+    {
+        "question": "Can I use Aadhar for online KYC?",
+        "answer": "Yes, you can use Aadhar for online KYC verification for various services, including banking, telecom, and financial services."
+    },
+    {
+        "question": "What is Aadhar-enabled payment system (AePS)?",
+        "answer": "Aadhar-enabled payment system (AePS) is a banking system that allows Aadhar holders to perform basic banking transactions using their Aadhar number and biometric authentication."
+    },
+    {
+        "question": "Can I link multiple bank accounts with Aadhar?",
+        "answer": "Yes, you can link multiple bank accounts with your Aadhar number by providing your Aadhar details to each bank."
+    },
+    {
+        "question": "How can I link my Aadhar with my mutual fund investments?",
+        "answer": "You can link your Aadhar with your mutual fund investments by providing your Aadhar number to your mutual fund house or through online platforms."
+    },
+    {
+        "question": "What is Aadhar Payment Bridge System (APBS)?",
+        "answer": "Aadhar Payment Bridge System (APBS) is a payment system that uses Aadhar numbers to transfer government subsidies and benefits directly into beneficiaries' bank accounts."
+    },
+    {
+        "question": "How can I get my Aadhar details corrected if there is an error?",
+        "answer": "You can get your Aadhar details corrected by visiting an Aadhar enrollment center with valid proof documents for the information that needs to be corrected."
+    },
+    {
+        "question": "Can I use my Aadhar card for obtaining a SIM card?",
+        "answer": "Yes, you can use your Aadhar card as proof of identity and address for obtaining a SIM card from telecom providers."
+    },
+    {
+        "question": "What is the maximum limit for Aadhar updates?",
+        "answer": "You can update your Aadhar details a maximum of twice for demographic information and once for biometric information."
+    },
+    {
+        "question": "Can I update my biometric data in Aadhar?",
+        "answer": "Yes, you can update your biometric data in Aadhar by visiting an Aadhar enrollment center and providing your updated biometric details."
+    },
+    {
+        "question": "How can I verify the authenticity of my Aadhar card?",
+        "answer": "You can verify the authenticity of your Aadhar card by checking the QR code on your card using the mAadhaar app or by verifying your Aadhar number online through the UIDAI website."
+    }
+]
